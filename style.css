@@ -1,0 +1,16 @@
+.app-content{
+    width: 100%;
+}
+form{
+    padding: 10px;
+}
+md-input-group.long > input{
+width:100%;
+}
+.long {
+    width:100%;
+}
+.small{
+    width:48%;
+    height:48%;
+}
